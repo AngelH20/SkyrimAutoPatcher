@@ -1,0 +1,4 @@
+requests>=2.28
+PyYAML>=6.0
+py7zr>=0.20      # opcional si tienes 7-Zip instalado
+rarfile>=4.0     # opcional si tienes 7-Zip instalado

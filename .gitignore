@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+informe_parches.html
+*.json.cache
+nexus_api_key.txt
+.venv/
